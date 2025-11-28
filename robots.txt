@@ -2,4 +2,7 @@
 
 # Allow crawling of content
 User-agent: *
-Disallow: /about.html
+Disallow: /recycling-insights-center/about.html
+Disallow: /recycling-insights-hub/about.html
+
+Sitemap: /sitemap.xml
